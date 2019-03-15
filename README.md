@@ -1,4 +1,4 @@
-# React Native Timeline Listview
+# React Native Timeline FlatList
 Timeline component for React Native App work for Android and iOS
 
 ![untitled-1](https://cloud.githubusercontent.com/assets/21040043/24750025/8c8d044e-1aef-11e7-8fd7-7d64431af7e4.png)
@@ -23,13 +23,13 @@ Timeline component for React Native App work for Android and iOS
 
 ## Installation
 ```
-npm i react-native-timeline-listview --save
+npm i react-native-timeline-flatlist-mg --save
 ```
 
 ## Basic Usage
 ![image2](https://cloud.githubusercontent.com/assets/21040043/24320617/6a7494ea-116b-11e7-9cf5-12244f5eec58.png)
 ```jsx
-import Timeline from 'react-native-timeline-listview'
+import Timeline from 'react-native-timeline-flatlist'
 
 constructor(){
     super()
